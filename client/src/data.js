@@ -267,6 +267,7 @@ export const facilities = [
     icon: <FaKey />
   },
   {
+    
     name: " Pet allowed",
     icon: <MdPets />
   }
