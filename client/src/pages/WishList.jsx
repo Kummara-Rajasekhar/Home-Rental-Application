@@ -43,6 +43,7 @@ const WishList = () => {
       <Footer />
     </>
   );
+  
 };
 
 export default WishList;

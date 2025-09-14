@@ -56,6 +56,7 @@ const CategoryPage = () => {
             price,
             booking = false,
           }) => (
+            
             <ListingCard
               listingId={_id}
               creator={creator}
